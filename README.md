@@ -1,0 +1,2 @@
+# ZabbixConferenceJapan2024
+Zabbix Conference Japan 2024 で行ったセッション「Zabbix運用をもっと便利にするAnsibleの活用法」資料内のサンプルや補足資料置き場
